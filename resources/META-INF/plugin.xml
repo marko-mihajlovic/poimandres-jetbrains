@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>poimandres</id>
+    <name>Poimandres Theme</name>
+    <version>1.0.0</version>
+
+    <category>UI</category>
+    <vendor>Marko</vendor>
+
+    <idea-version since-build="191"/>
+
+    <description><![CDATA[
+        Unofficial <a href="https://github.com/drcmda/poimandres-theme">Poimandres</a> theme for <a href="https://www.jetbrains.com/products/#type=ide">JetBrains</a>
+  ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="poimandres" path="/theme/poimandres.theme.json"/>
+    </extensions>
+
+</idea-plugin>
