@@ -8,9 +8,32 @@
 
     <idea-version since-build="191"/>
 
+
     <description><![CDATA[
-        Unofficial <a href="https://github.com/drcmda/poimandres-theme">Poimandres</a> theme for <a href="https://www.jetbrains.com/products/#type=ide">JetBrains</a>
+
+        <p align="middle">
+            <img src="https://raw.githubusercontent.com/marko-mihajlovic/poimandres-jetbrains/main/assets/dots.png" border="0" width="150">
+        </p>
+
+        <p>
+            Unofficial <a href="https://github.com/drcmda/poimandres-theme">Poimandres</a> theme for <a href="https://www.jetbrains.com/products/#type=ide">JetBrains</a>
+        </p>
+
+        <br/>
+
+        <p>
+            Contribute and raise issue via <a href="https://github.com/marko-mihajlovic/poimandres-jetbrains">GitHub</a>
+        </p>
+
+        <br/><br/>
+
   ]]></description>
+
+
+    <change-notes><![CDATA[
+    Initial release of the theme.
+  ]]></change-notes>
+
 
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.lang</depends>
