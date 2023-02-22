@@ -16,7 +16,7 @@
     <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="poimandres" path="/theme/poimandres.theme.json"/>
+        <themeProvider id="74627168-ab4f-4407-9ca5-4c1e6b09fbef" path="/theme/poimandres.theme.json"/>
     </extensions>
 
 </idea-plugin>
