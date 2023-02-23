@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>poimandres</id>
     <name>Poimandres Theme</name>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <category>UI</category>
     <vendor>Marko</vendor>
