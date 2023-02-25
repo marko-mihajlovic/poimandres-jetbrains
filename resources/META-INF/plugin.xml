@@ -4,7 +4,7 @@
     <version>0.0.3</version>
 
     <category>UI</category>
-    <vendor>Marko</vendor>
+    <vendor url="https://github.com/marko-mihajlovic/poimandres-jetbrains">Marko</vendor>
 
     <idea-version since-build="191"/>
 
