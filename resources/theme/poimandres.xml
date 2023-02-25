@@ -252,6 +252,11 @@
                 <option name="BACKGROUND" value="00000000" />
             </value>
         </option>
+        <option name="INJECTED_LANGUAGE_FRAGMENT">
+            <value>
+                <option name="BACKGROUND" value="00000000" />
+            </value>
+        </option>
 
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
