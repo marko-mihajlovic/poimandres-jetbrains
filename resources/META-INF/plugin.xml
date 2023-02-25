@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>poimandres</id>
     <name>Poimandres Theme</name>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
 
     <category>UI</category>
     <vendor url="https://github.com/marko-mihajlovic/poimandres-jetbrains">Marko</vendor>
