@@ -510,6 +510,13 @@
             </value>
         </option>
 
+        <!-- SHELL / BASH -->
+        <option name="BASH.EXTERNAL_COMMAND">
+            <value>
+                <option name="FOREGROUND" value="91B4D5" />
+            </value>
+        </option>
+
         <!-- Terminal -->
         <option name="CONSOLE_NORMAL_OUTPUT">
             <value>
