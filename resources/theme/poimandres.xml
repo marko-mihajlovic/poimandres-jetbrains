@@ -247,7 +247,11 @@
                 <option name="FOREGROUND" value="91b4d5"/>
             </value>
         </option>
-
+        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+            <value>
+                <option name="BACKGROUND" value="00000000" />
+            </value>
+        </option>
 
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
