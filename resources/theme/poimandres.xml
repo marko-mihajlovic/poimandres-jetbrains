@@ -45,6 +45,7 @@
         <option name="MODIFIED_LINES_COLOR" value="89ddff"/>
         <option name="DELETED_LINES_COLOR" value="d0679d"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ADD7FF"/>
+        <option name="DIFF_SEPARATOR_WAVE" value="272c3c" />
     </colors>
     <attributes>
         <option name="TEXT">
