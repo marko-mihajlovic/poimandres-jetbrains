@@ -134,8 +134,10 @@
       "foreground": "darkerGray",
       "rowHeight": 22,
       "hoverBackground": "bg",
+      "hoverInactiveBackground": "selection2",
       "selectionForeground": "offWhite",
-      "selectionInactiveBackground": "selection",
+      "selectionInactiveBackground": "selection2",
+      "selectionBackground": "selection2",
       "paintLines": false
     },
     "Link": {
@@ -264,7 +266,16 @@
       "selectionBackground": "focus",
       "trackColor": "focus"
     },
-
+    "VersionControl": {
+      "RefLabel": {
+        "backgroundBase": "gray"
+      },
+      "Log.Commit": {
+        "selectionInactiveBackground": "selection2",
+        "currentBranchBackground": "bg",
+        "hoveredBackground": "selection2"
+      }
+    },
     "FileColor": {
       "Yellow": "transparent",
       "Blue": "transparent",

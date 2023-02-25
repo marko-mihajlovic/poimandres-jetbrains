@@ -576,6 +576,32 @@
             </value>
         </option>
 
+        <!-- VCS -->
+        <option name="DIFF_INSERTED">
+            <value>
+                <option name="BACKGROUND" value="174e44" />
+                <option name="ERROR_STRIPE_COLOR" value="5fb3a1" />
+            </value>
+        </option>
+        <option name="DIFF_MODIFIED">
+            <value>
+                <option name="BACKGROUND" value="293d5c" />
+                <option name="ERROR_STRIPE_COLOR" value="89ddff" />
+            </value>
+        </option>
+        <option name="DIFF_DELETED">
+            <value>
+                <option name="BACKGROUND" value="5c2943" />
+                <option name="ERROR_STRIPE_COLOR" value="d0679d" />
+            </value>
+        </option>
+        <option name="DIFF_CONFLICT">
+            <value>
+                <option name="BACKGROUND" value="660606" />
+                <option name="ERROR_STRIPE_COLOR" value="ee003c" />
+            </value>
+        </option>
+
         <!-- RAINBOW -->
         <option name="RAINBOW_COLOR0">
             <value>
