@@ -250,12 +250,12 @@
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
             <value>
-                <option name="BACKGROUND" value="00000000" />
+                <option name="BACKGROUND" value="1b1e28" />
             </value>
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="00000000" />
+                <option name="BACKGROUND" value="1b1e28" />
             </value>
         </option>
 
@@ -444,11 +444,25 @@
         </option>
         <option name="HTML_ATTRIBUTE_VALUE">
             <value>
-                <option name="FOREGROUND" value="ADD7FF"/>
+                <option name="FOREGROUND" value="5de4c7"/>
             </value>
         </option>
 
+        <!-- PHP -->
+        <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="PHP_TAG">
+            <value>
+                <option name="FOREGROUND" value="e4f0fb" />
+            </value>
+        </option>
+        <option name="PHP_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="e4f0fb" />
+            </value>
+        </option>
 
+        <!--  -->
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="e4f0fb"/>
@@ -589,7 +603,19 @@
         <option name="BREADCRUMBS_HOVERED">
             <value>
                 <option name="FOREGROUND" value="e4f0fb"/>
-                <option name="BACKGROUND" value="00000000"/>
+                <option name="BACKGROUND" value="1b1e28"/>
+            </value>
+        </option>
+        <option name="BREADCRUMBS_CURRENT">
+            <value>
+                <option name="FOREGROUND" value="e4f0fb"/>
+                <option name="BACKGROUND" value="1b1e28"/>
+            </value>
+        </option>
+        <option name="BREADCRUMBS_INACTIVE">
+            <value>
+                <option name="FOREGROUND" value="636986"/>
+                <option name="BACKGROUND" value="1b1e28"/>
             </value>
         </option>
 
